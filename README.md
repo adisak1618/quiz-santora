@@ -1,6 +1,6 @@
-# quiz2
+# quiz
 
-> A Vue.js project
+> Answer of quize for Santora
 
 ## Build Setup
 
